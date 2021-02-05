@@ -5,15 +5,15 @@ layout: resume
 
 `July 2017 - Present`
 __“Luiz de Queiroz” College of Agriculture - University of São
-Paulo__
+Paulo__  
 PhD Candidate in Genetics and Plant Breeding  
 
 `February 2015 - May 2017`
-__Federal University of Goiás__
+__Federal University of Goiás__  
 MSc in Genetics and Plant Breeding
 
 `February 2015 - May 2017`
-__Federal University of Goiás__
+__Federal University of Goiás__  
 BSc in Agronomy
 
 ## Awards
@@ -28,38 +28,38 @@ ISCB Wikipedia competition - awarded by the page update about Biostatistics
 ## Journals and Pre-Prints
 
 `2020`
-[The sugarcane and sorghum kinomes: insights into evolutionary expansion and diversification](https://www.biorxiv.org/content/10.1101/2020.09.15.298612v1), *BioRxiv*
+[The sugarcane and sorghum kinomes: insights into evolutionary expansion and diversification](https://www.biorxiv.org/content/10.1101/2020.09.15.298612v1), _BioRxiv_
 
 `2018`
 [Marker-Assisted elimination of drought-susceptible accessions in upland rice breeding](https://www.geneticsmr.org/articles/markerassisted-elimination-of-droughtsusceptible-accessions-in-upland-rice-breeding-7561.html), Genetics and Molecular Research
 
-### Book Charpter
+__Book Charpter__
 
 `2019`
 Fenotipagem de alto rendimento, Melhoramento de forrageiras na era genômica (in portuguese) 
 
 ## Skills
 
-### Bioinformatics 
+__Bioinformatics__
 
 Programming languages: R and Python (beginner) 
 Transcriptomics and Genomics Data Analysis 
 Teamwork with GitHub 
 
-### Field and wet lab 
+__Field and wet lab__
 
 Planning and leading medium size field experiments
 DNA and RNA extraction 
 Gel electrophoresis 
 PCR and RT- qPCR
 
-### Spoken languages
+__Spoken languages__
 
 Native Portuguese
 Advanced English
 Basic Spanish
 
-### Science popularization
+__Science popularization__
 Scientific communication
 Event organization
 Teaching in trainning courses
@@ -85,80 +85,81 @@ Breeding (in portuguese).
 ## Complementary Formation
 
 `August 2020 - Present`
+MBA in Project Management  
 __“Luiz de Queiroz” College of Agriculture" - University of São Paulo__
-MBA in Project Management
+
 
 `January 2021` 
+Tools for Genomics-Assisted Breeding in Polyploids Workshop Workshop, 30h  
 [polyploids.org](https://www.polyploids.org/)
-Tools for Genomics-Assisted Breeding in Polyploids Workshop Workshop, 30h
 
 `December, 2019`
+Training in Polyploid Genetic Data Analysis: From Dosage Calling to Linkage and QTL Mapping, 24h  
 __University of São Paulo / ESALQ__
-Training in Polyploid Genetic Data Analysis: From Dosage Calling to Linkage and QTL Mapping, 24h
 
 `November, 2019`
+Systems Biology and Gene Networks Inference: Application to Livestock Breeding and Genetics, 36h  
 __University of São Paulo / ESALQ__
-Systems Biology and Gene Networks Inference: Application to Livestock Breeding and Genetics, 36h
 
 `October, 2019`
+Training in Machine Learning Methods for Genomic Prediction, 8h  
 __University of São Paulo / ESALQ__
-Training in Machine Learning Methods for Genomic Prediction, 8h
 
 `September, 2019`
+Training in Data Analysis and Visualization in R - TidyR, 16h  
 __University of São Paulo / ESALQ__
-Training in Data Analysis and Visualization in R - TidyR, 16h
 
 `September, 2019`
+Training: Genotype to Phenotype Models for Traditional and New Phenotyping Data in Plant Breeding, 9h  
 __University of São Paulo / ESALQ__
-Training: Genotype to Phenotype Models for Traditional and New Phenotyping Data in Plant Breeding, 9h
 
 `September, 2019`
+Python Programming Training, 24h  
 __University of São Paulo / ESALQ__
-Python Programming Training, 24h
 
 `July, 2018`
+Workshop in Genetic Analysis: A statistical approach for phenotypic and genotypic data for plant breeders, 40h  
 __University of São Paulo / ESALQ__
-Workshop in Genetic Analysis: A statistical approach for phenotypic and genotypic data for plant breeders, 40h
 
 `May, 2018`
+Quantitative Genetics and Genomics Course, 30h  
 __University of São Paulo / ESALQ__
-Quantitative Genetics and Genomics Course, 30h
 
 ## Event organization
 
 `Janurary, 2021`
+Course - Peer review: how can I improve the process of knowledge generation?  
 __University of São Paulo / ESALQ__
-Course - Peer review: how can I improve the process of knowledge generation?
 
 `September, 2020`
+III Python Workshop for Biological Data  
 __University of São Paulo / ESALQ__
-III Python Workshop for Biological Data
 
 `October, 2019`
+VII Workshop on Teaching in Higher Education  
 __University of São Paulo / ESALQ__
-VII Workshop on Teaching in Higher Education
 
 `October, 2019`
-__University of São Paulo / ESALQ__
 III INTERNATIONAL MEETING ON PLANT BREEDING - New approaches on plant breeding: insights into
-artificial intelligence
+artificial intelligence  
+__University of São Paulo / ESALQ__
 
 `July, 2019`
+Smart Tools for Plant Breeding Symposium  
 __University of São Paulo / ESALQ__
-Smart Tools for Plant Breeding Symposium
 
 `2019`
+Programming in R environment Training  
 __University of São Paulo / ESALQ__
-Programming in R environment Training
 
 `2018`
+Programming in R environment Training  
 __University of São Paulo / ESALQ__
-Programming in R environment Training
 
 `October, 2018`
-__University of São Paulo / ESALQ__
 II INTERNATIONAL MEETING ON PLANT BREEDING - Advances in Experimental Design and Statistical
-Analysis in Genetics and Plant Breeding
+Analysis in Genetics and Plant Breeding  
+__University of São Paulo / ESALQ__
 
 ## Other information
 
