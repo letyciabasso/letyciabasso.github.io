@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: [Ana Letycia Basso Garcia, MSc]
+title: [Ana Letycia Basso Garcia]
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -12,9 +12,9 @@ owner:
   email: garcia.alb@usp.br
   # Do not include the @ symbol in your Twitter username
   twitter: BassoLetycia
-  linkedin: #AnaLetycia
+  linkedin: AnaLetycia
   github: letyciabasso
-  orcid: #0000-0003-1497-2567
+  orcid: 0000-0003-1497-2567
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
