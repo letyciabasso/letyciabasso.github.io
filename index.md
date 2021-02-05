@@ -3,10 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+A Plant Geneticist adventuring in the frontiers of bioinformatics and breeding.
 
-## Current Interests and Projects:
-
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+## Current Active Group Member
+[GENt](https://gent-esalq.github.io/)
