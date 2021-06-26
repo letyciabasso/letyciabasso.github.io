@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 excerpt: "About Me..."
 ---
 
@@ -17,20 +18,17 @@ Besides genetics and plant science, I enjoy learning about science communication
 
 I am passionate about travelling and discovering new places, as well as observe nature. In my free time, before the pandemic, I used to hike and discover waterfalls. However, nowadays, I talk with my cats, my little tortoise, and with people. Besides that, I also enjoy writing poetry, and I am motivated in learning to play the guitar.  
 
-### Professional Memberships  
-
-#### Currently Active Memberships  
-
-**Student and ECR Groups**  
-[GENt](https://gent-esalq.github.io/) - *Science communication*  
-[Voice of Young Science - VoYS](https://senseaboutscience.org/what-we-are-doing/voys/) - *Science communication*  
-
-**Societies Membership**  
+### Professional Memberships
+#### Societies Membership
 [Brazilian Society of Genetics](https://www.sbg.org.br/)  
 [Brazilian Society of Plant Breeding](http://www.sbmp.org.br/)  
 [The Society of Experimental Biology - SEB](https://www.sebiology.org/)  
 
-#### Former Memberships   
+#### Science Communication Groups
+[GENt](https://gent-esalq.github.io/)   
+[Voice of Young Science - VoYS](https://senseaboutscience.org/what-we-are-doing/voys/)   
+
+#### Plant Breeding Groups - Former Memberships
 [GVENCK](https://gvenck.github.io/) - *Plant Breeding* - Former vice-coordinator  
 [EuGeM](https://grupoeugem.wixsite.com/eugem) - *Plant Breeding* - Co-founder and former secretary  
 
