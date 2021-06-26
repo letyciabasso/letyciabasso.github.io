@@ -8,8 +8,17 @@
 - title: CV
   url: /cv/
 
-- title: Blog
-  url: /blog/
+- title: Bioinformatics 
+  url: /Bioinformatics/
 
-#- title: Workshops
-#  url: /workshops/
+- title: Plant Breeding and Quantitative Genetics 
+  url: /Plant Breeding/
+
+- title: Project Management
+  url: /Project management/
+  
+- title: Science Communication
+  url: /Science Communication/
+
+- title: Courses and Workshops
+  url: /Courses and Workshops/
