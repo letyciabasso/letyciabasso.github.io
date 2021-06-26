@@ -19,7 +19,7 @@ I am passionate about travelling and discovering new places, as well as observe 
 
 #### Student and ECR Group Membership 
 
-*Active*
+*Active*  
 [GENt](https://gent-esalq.github.io/) - *Science communication*  
 [VOICE OF YOUNG SCIENCE - VOYS](https://senseaboutscience.org/what-we-are-doing/voys/) - *Science communication*  
 
