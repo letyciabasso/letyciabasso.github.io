@@ -14,7 +14,7 @@ I completed a Bachelor Degree in Agronomy in 2014 and a Master Degree in Genetic
   
 Besides genetics and plant science, I enjoy learning about science communication, education, and project management.   
 
-### Beyond work life  
+### Beyond work-life  
 
 I am passionate about travelling and discovering new places, as well as observe nature. In my free time, before the pandemic, I used to hike and discover waterfalls. However, nowadays, I talk with my cats, my little tortoise, and with people. Besides that, I also enjoy writing poetry, and I am motivated in learning to play the guitar.  
 
