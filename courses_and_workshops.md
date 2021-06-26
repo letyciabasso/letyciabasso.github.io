@@ -4,6 +4,6 @@ title: Courses and Workshops
 excerpt: "Recent Courses and Workshops"
 ---
 
-# Workshops I've Put Together
+*I will update this page later* &#x1F469;  
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+But you can take a look at the last R course I was involved in here. This course was a collaborative effort involving many colleagues, whom I had the opportunity to work for a couple of years. You can find the complete course material [here](https://gent-esalq.github.io/cursoR2/index.html)
