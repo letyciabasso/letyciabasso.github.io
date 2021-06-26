@@ -21,7 +21,7 @@ A list of all publications is also available [online](https://scholar.google.com
   style="width:100%; height:300px;"
 ></iframe>  
 
-### Book Charpter  
+### Book Chapter  
 
 `2019` [Melhoramento de forrageiras na era genômica - Capítulo 9: Fenotipagem de alto rendimento](https://vendasliv.sct.embrapa.br/liv4/consultaProduto.do?metodo=detalhar&codigoProduto=00055340) *(in portuguese)*
 <iframe
