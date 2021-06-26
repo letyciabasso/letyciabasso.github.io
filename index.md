@@ -12,7 +12,7 @@ I am a PhD Candidate in Genetics and Plant Breeding at the Laboratory of Bioinfo
 
 #### Societies Membership
 [Brazilian Society of Genetics](https://www.sbg.org.br/)  
-[Brazilian Society of Plant Breeding](http://www.sbmp.org.br/)
+[Brazilian Society of Plant Breeding](http://www.sbmp.org.br/)  
 [The Society of Experimental Biology - SEB](https://www.sebiology.org/)
 
 
