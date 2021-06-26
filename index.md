@@ -13,24 +13,27 @@ I completed a Bachelor Degree in Agronomy in 2014 and a Master Degree in Genetic
   
 Besides genetics and plant science, I enjoy learning about science communication, education, and project management.   
 
-#### Student and ECR Group Membership 
+### Beyond work life  
 
-**Active Member**  
+I am passionate about travelling and discovering new places, as well as observe nature. In my free time, before the pandemic, I used to hike and discover waterfalls. However, nowadays, I talk with my cats, my little tortoise, and with people. Besides that, I also enjoy writing poetry, and I am motivated in learning to play the guitar.  
+
+### Professional Memberships  
+
+#### Currently Active Memberships  
+
+**Student and ECR Groups**  
 [GENt](https://gent-esalq.github.io/) - *Science communication*  
 [Voice of Young Science - VoYS](https://senseaboutscience.org/what-we-are-doing/voys/) - *Science communication*  
 
-**Former**  
-[GVENCK](https://gvenck.github.io/) - *Plant Breeding* - Former vice-coordinator  
-[EuGeM](https://grupoeugem.wixsite.com/eugem) - *Plant Breeding* - Co-founder and former secretary  
-
-#### Societies Membership
+**Societies Membership**  
 [Brazilian Society of Genetics](https://www.sbg.org.br/)  
 [Brazilian Society of Plant Breeding](http://www.sbmp.org.br/)  
 [The Society of Experimental Biology - SEB](https://www.sebiology.org/)  
 
-### Beyond work life  
+#### Former Memberships   
+[GVENCK](https://gvenck.github.io/) - *Plant Breeding* - Former vice-coordinator  
+[EuGeM](https://grupoeugem.wixsite.com/eugem) - *Plant Breeding* - Co-founder and former secretary  
 
-I am passionate about travelling and discovering new places, as well as observe nature. In my free time, before the pandemic, I used to hike and discover waterfalls. However, nowadays, I talk with my cats, my little tortoise, and with people. Besides that, I also enjoy writing poetry, and I am motivated in learning to play the guitar.
 
 
 
