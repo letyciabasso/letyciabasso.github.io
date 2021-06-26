@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: All Publications
 ---
 
@@ -10,7 +10,12 @@ A list is also available [online](https://scholar.google.com.br/citations?user=U
 ### Journals and Pre-Prints
 
 `2021`
-[The Wild Sugarcane and Sorghum Kinomes: Insights into Expansion, Diversification and Expression Patterns](https://www.frontiersin.org/articles/10.3389/fpls.2021.668623), Frontiers in Plant Science
+[The Wild Sugarcane and Sorghum Kinomes: Insights into Expansion, Diversification and Expression Patterns]
+<iframe
+  src="https://www.frontiersin.org/articles/10.3389/fpls.2021.668623"
+  style="width:100%; height:300px;"
+></iframe>
+
 
 `2018`
 [Marker-Assisted elimination of drought-susceptible accessions in upland rice breeding](https://www.geneticsmr.org/articles/markerassisted-elimination-of-droughtsusceptible-accessions-in-upland-rice-breeding-7561.html), Genetics and Molecular Research
