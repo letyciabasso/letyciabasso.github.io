@@ -11,7 +11,8 @@ A list of all publications is also available [online](https://scholar.google.com
 <iframe
   src="https://www.frontiersin.org/articles/10.3389/fpls.2021.668623"
   style="width:100%; height:300px;"
-></iframe>  
+></iframe>   
+
 
 
 `2018` [Marker-Assisted elimination of drought-susceptible accessions in upland rice breeding](https://www.geneticsmr.org/articles/markerassisted-elimination-of-droughtsusceptible-accessions-in-upland-rice-breeding-7561.html)
@@ -22,7 +23,7 @@ A list of all publications is also available [online](https://scholar.google.com
 
 ### Book Charpter  
 
-`2019` **Melhoramento de forrageiras na era genômica - Capítulo 9: Fenotipagem de alto rendimento** *(in portuguese)*
+`2019` [Melhoramento de forrageiras na era genômica - Capítulo 9: Fenotipagem de alto rendimento](https://vendasliv.sct.embrapa.br/liv4/consultaProduto.do?metodo=detalhar&codigoProduto=00055340) *(in portuguese)*
 <iframe
   src="https://vendasliv.sct.embrapa.br/liv4/consultaProduto.do?metodo=detalhar&codigoProduto=00055340"
   style="width:100%; height:300px;"
