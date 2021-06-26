@@ -1,4 +1,4 @@
 ---
 layout: post-index
-title: All SciComm Posts
+title: All Publications
 ---
