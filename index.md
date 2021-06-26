@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-excerpt: "About Me..."
+excerpt: "Personal webpage"
 ---
 
 ### I am a Plant Geneticist adventuring in the frontiers of bioinformatics and plant breeding
