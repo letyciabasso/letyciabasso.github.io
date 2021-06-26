@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-__I am a Plant Geneticist adventuring in the frontiers of bioinformatics and plant breeding__
+### I am a Plant Geneticist adventuring in the frontiers of bioinformatics and plant breeding
 
 I am a PhD Candidate in Genetics and Plant Breeding at the Laboratory of Bioinformatics Applied to Plant Breeding based at the "Luíz de Queiroz" College of Agriculture at the University of São Paulo, in Brazil. My research goal is to understand how sugarcane, a complex polyploid crop, responds to drought stress at gene and transcript level. Currently, I am also working as a remote visiting student in partnership with a laboratory at the School of Biosciences at the University of Birmingham in the United Kingdom to develop part of my thesis research.   
   
