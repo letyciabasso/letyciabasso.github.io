@@ -12,7 +12,7 @@ __MBA in Project Management__
 “Luiz de Queiroz” College of Agriculture" - University of São Paulo      
 
 `February 2015 - May 2017`
-__MSc in Genetics and Plant Breeding__
+__MSc in Genetics and Plant Breeding__  
 Federal University of Goiás  
 
 `February 2015 - May 2017`
@@ -23,7 +23,7 @@ Federal University of Goiás
 
 `February, 2021 - Present`
 __Visiting PhD Student (remote)__  
-Borrill Lab, School of Biosciences, University of Birmingham, Birmingham, United Kingdom  
+University of Birmingham, Birmingham, United Kingdom  
 
 `July, 2012 - December 2012`
 __Visiting undergraduate student - CAPES-FIPSE Exchange Program Scholarship__  
@@ -84,11 +84,11 @@ Fenotipagem de alto rendimento, _Melhoramento de forrageiras na era genômica_ (
 
 ## Presentations
 `2021`
-‘How do alternative transcripts influence drought response in sugarcane   
+How do alternative transcripts influence drought response in sugarcane   
 *Talk at the Plant Science Theme Seminar*, Univeristy of Birmingham, United Kingdom   
 
 `2019`
-Differential Gene expression analysis in roots of commercial sugarcane genotypes under drought stress   
+Differential gene expression analysis in roots of commercial sugarcane genotypes under drought stress   
 *10th Brazilian Plant Breeding Congress*, Brazil   
 
 `2019`
@@ -103,10 +103,10 @@ RNA-Seq of sugarcane genotypes contrasting in brix content reveals polymorphisms
 Caracterização genética por modelos mistos de uma população de linhas puras recombinantes de arroz irrigado   
 *9th Brazilian Congress of Plant Breeding*, Brazil  
 
-## Complementary Formation
+## Attendance at courses and workshops
 `June, 2021`
 Constructive Peer Review Workshop, 2h (online)  
-__Nature Communications)__   
+__Nature Communications__   
 
 `May, 2021`
 SEB Practical Presentation Skills for Scientists & Researchers course, 16h (online)   
@@ -122,15 +122,11 @@ __University of São Paulo / ESALQ__
 
 `April, 2021`
 Standing up for Science Workshop, 4h (online)   
-__Sense About Science, United Kingdom__    
-
-`January, 2021`  
-Peer review: how can I improve the process of knowledge generation?, 4h (online)   
-__University of São Paulo / ESALQ__  
+__Sense About Science, United Kingdom__  
 
 `January, 2021`
 Tools for Genomics-Assisted Breeding in Polyploids Workshop Workshop, 30h (online)  
-[polyploids.org](https://www.polyploids.org/)  
+*[polyploids.org](https://www.polyploids.org/)*    
 
 `December, 2019`
 Training in Polyploid Genetic Data Analysis: From Dosage Calling to Linkage and QTL Mapping, 24h  
