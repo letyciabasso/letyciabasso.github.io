@@ -89,7 +89,7 @@ Fenotipagem de alto rendimento, _Melhoramento de forrageiras na era genômica_ (
 
 `2019`
 Differential Gene expression analysis in roots of commercial sugarcane genotypes under drought stress   
-*0th Brazilian Plant Breeding Congress* Brazil   
+*10th Brazilian Plant Breeding Congress*, Brazil   
 
 `2019`
 Challenges and perspectives for breeding polyploid crops   
