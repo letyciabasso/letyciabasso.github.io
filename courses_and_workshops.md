@@ -19,8 +19,9 @@ You can find the complete course material (in portuguese) [here](https://gent-es
 
 ### Curso Online R (CIICAM) - Upcoming in Octuber 2021  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1v9hObpy0g8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1v9hObpy0g8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+   
+   
 ![image](https://user-images.githubusercontent.com/11890521/132151368-e081646d-9e95-4274-9f81-36f69bd664b6.png)  
 
 More info: [CIICAM](https://ciicam.com/)
