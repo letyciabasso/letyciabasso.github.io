@@ -4,7 +4,7 @@ title: All Project Management Posts
 modified: 06/10/2021
 ---
 
-3 Productivity tips that helps me to keep focused and organize my mind
+# 3 Productivity tips that helps me to keep focused and organize my mind
 
 The 3 software/apps help me to keep on track during the day and keep my restless mind organized: Clockify (Free), Notion (Freemium), Braim.fm (paid). 
 
