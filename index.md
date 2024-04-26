@@ -6,17 +6,16 @@ excerpt: "Personal webpage"
 
 ### I am a Plant Geneticist adventuring in the frontiers of bioinformatics and plant breeding
 
-I am a PhD Candidate in Genetics and Plant Breeding at the Laboratory of Bioinformatics Applied to Plant Breeding based at the "Luíz de Queiroz" College of Agriculture at the University of São Paulo, in Brazil. My research goal is to understand how sugarcane, a complex polyploid crop, responds to drought stress at gene and transcript level. Currently, I am also working as a remote visiting student in partnership with a laboratory at the School of Biosciences at the University of Birmingham in the United Kingdom to develop part of my thesis research.   
-  
+I am a plant researcher and Agronomist with a plus of 2 years of experience in research and data analysis in the industry. My skills include data analysis for the genetic improvement of forest species and self-pollinating plants, and bioinformatics applied to functional genomics focused on sugarcane. I have valuable skills in statistical analysis, bioinformatics, and plant phenotyping. With a comprehensive understanding of plant breeding programs, I have contributed to the development of key performance indicators and the implementation of innovative strategies. I have effective communication and interpersonal abilities by successfully organizing events, delivering lectures, and conducting training sessions. Additionally, I am fluent in English and well-equipped to thrive in international work environments.  
+
 I am a motivated and creative scientist, and I appreciate collaborative work.   
-  
-I completed a Bachelor Degree in Agronomy in 2014 and a Master Degree in Genetics and Plant Breeding in 2017 at the Federal University of Goiás. I received a grant from Capes in 2012 to study agronomy in Iowa, United States, for six months in 2012. In addition, I was a member of the winner group of the Wikipedia ISCB competition in 2018. My skills include bioinformatics, experimental planning, statistical modelling applied to plant breeding, and R programming.   
   
 Besides genetics and plant science, I enjoy learning about science communication, education, and project management.   
 
 ### Beyond work-life  
 
-I am passionate about travelling and discovering new places, as well as observe nature. In my free time, before the pandemic, I used to hike and discover waterfalls. However, nowadays, I talk with my cats, my little tortoise, and with people. Besides that, I also enjoy writing poetry, and I am motivated in learning to play the guitar.  
+I am passionate about traveling and discovering new places, as well as observe nature. In my free time, I hike to discover waterfalls or enjoy some time on the beach. Besides that, I also enjoy writing poetry and learning to play the guitar.  
+I love animals and I have two cats and one little tortoise.
 
 ### Professional Memberships
 #### Societies Membership
