@@ -3,25 +3,21 @@ layout: resume
 ---
 ## Education
 
-`July 2017 - Present`
 __PhD Candidate in Genetics and Plant Breeding__    
 “Luiz de Queiroz” College of Agriculture - University of São Paulo  
 
-`August 2020 - Present`
 __MBA in Project Management__   
 “Luiz de Queiroz” College of Agriculture" - University of São Paulo      
 
-`February 2015 - May 2017`
 __MSc in Genetics and Plant Breeding__  
 Federal University of Goiás  
 
-`February 2015 - May 2017`
 __BSc in Agronomy__  
 Federal University of Goiás  
 
 ## International Experience
 
-`February, 2021 - Present`
+`February, 2021 - October, 2021`
 __Visiting PhD Student (remote)__  
 University of Birmingham, Birmingham, United Kingdom  
 
@@ -33,8 +29,23 @@ Kirkwood Community College, United States
 __CCI Pre-Academic Program, 150h__  
 Kirkwood Community College, United States  
 
-## Skills
+## Professional experience
+`February, 2022 to January, 2024`
+__Veracel Celulose__ - _Breeding analyst_
+- Responsible for data analysis, clone, and parental selection of the whole breeding program
+- Evaluated the experimental network efficiency through GxE analysis
+- Defined the phenotyping strategy of cloned progeny trials for genomic selection
+- Reviewed and redesigned the tree improvement strategy official document
+- Recommended 10 clones for pre-commercial testing and 1 clone for commercial use
+- Build a database for more than 120 trials with measurements and pedigree information
+- Designed and deployed a rolling front breeding strategy for the eucalyptus program
+- Defined breeding schemes for Eucalyptus and Corymbia orchards
+- Developed KPIs and dashboards to track advancements in the tree improvement program
+- Reconstructed the pedigree of the main breeding population with SNP markers
+- Presented results at quarterly meetings to shareholders
+- Represented the company and presented at national and international scientific meetings
 
+## Skills
 __Bioinformatics__   
 
 - Programming in R, Bash and Python (beginner)  
