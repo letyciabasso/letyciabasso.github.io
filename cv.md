@@ -111,13 +111,13 @@ ISCB Wikipedia competition - awarded by the page update about Biostatistics
 
 ## Journals and Pre-Prints
 `2023`
-[Sampling strategies for sugarcane using either clonal replicates or diverse genotypes can bias the conclusions of RNA-Seq studies](https://www.scielo.br/j/gmb/a/xGF7xHxTT9q5qwJXtB6LYwD/?lang=en)
+[Sampling strategies for sugarcane using either clonal replicates or diverse genotypes can bias the conclusions of RNA-Seq studies](https://www.scielo.br/j/gmb/a/xGF7xHxTT9q5qwJXtB6LYwD/?lang=en), _Genetics and Molecular Biology_
 
 `2023`
-[Moving towards a rolling front strategy for VERACEL's advanced-generation eucalypt hybrid breeding program](https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1254)
+[Moving towards a rolling front strategy for VERACEL's advanced-generation eucalypt hybrid breeding program](https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1254), _Agrociencia Uruguay_
 
 `2023`
-[Genetic parameters for early growth and disease resistance in a cloned F2 hybrid progeny of Eucalyptus urophylla × grandis](https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1255)
+[Genetic parameters for early growth and disease resistance in a cloned F2 hybrid progeny of Eucalyptus urophylla × grandis](https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1255), _Agrociencia Uruguay_
 
 `2021`
 [The experience of teaching introductory programming skills to bioscientists in Brazil](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009534), _PLOS COMPUTATIONAL BIOLOGY_
