@@ -43,20 +43,46 @@ __Veracel Celulose__ - _Breeding analyst_
 - Developed KPIs and dashboards to track advancements in the tree improvement program
 - Reconstructed the pedigree of the main breeding population with SNP markers
 - Presented results at quarterly meetings to shareholders
-- Represented the company and presented at national and international scientific meetings
+- Represented the company and presented research findings at national and international scientific meetings
+
+`July, 2017 to January, 2024`
+__Laboratory of Bioinformatics Applied to Bioenergy - ESALQ/USP__ - _PhD Researcher (CNPq Fellowship)_
+- Assembled a _de novo_ sugarcane transcriptome
+- Performed gene annotation, gene and isoform expression, and gene enrichment analysis
+- Developed in-house scripts for bioinformatics and statistical analysis
+- Presented research findings at national and international scientific meetings
+- Collaborated in more than 5 different research projects
+- Published more than 5 papers (in progress)
+
+`July, 2017 to January, 2024`
+__Embrapa Rice and Beans__ - _Master's Degree Researcher (CAPES Fellowship)_
+- Responsible for designing and conducting a field trial with more than 300 rice genotypes
+- Phenotyped the plots on the field for 5 different traits
+- Performed multi-trait multi-environment analysis and GxE analysis for selecting the inbred lines with best performance
+- Recommend to the rice breeding program 8 inbred lines to be used as parents and 2 for genotype development
+- Analysed population structure with SSR markers identifying two heterotic groups
+- Performed linkage and QTL mapping using SNP markers and found 3 QTLs related to rice yield
+- Presented research findings at national and international scientific meetings
+- Published a dissertation with the research results
 
 ## Skills
-__Bioinformatics__   
+__Informatics__   
 
+-	Microsoft Office Suite 
+- Power BI 
 - Programming in R, Bash and Python (beginner)  
-- Linux and remote server user  
+- Linux and remote server user
+- LIMS (Laboratory Information Management System)
+- SQL (basic knowledge)
+- ASReml
 - Experience in Genomics (GBS, WGS) and Transcriptomics (RNA-Seq) data analysis  
-- Proficiency in bioinformatics tools (BWA, Hisat2, Trinity, Trinotate, GATK, Samtools and others)  
+- Proficiency in bioinformatics tools (BWA, Hisat2, Trinity, Trinotate, GATK, Samtools, and others)  
 - Teamwork with GitHub  
 
 __Field and Wet Lab__   
 
-- Planning, leading, and evaluating field experiments  
+- Planning, leading, and evaluating field experiments
+- Traditional phenotyping and selecting genotypes in the field
 - DNA and RNA extraction   
 - Sample preparation for sequencing  
 
@@ -67,22 +93,36 @@ __Spoken languages__
 - Basic Spanish  
 
 __Science popularization__   
-- Scientific communication   
+- Scientific communication and writing 
 - Event organization   
-- Teaching in trainning courses    
+- Teaching in training courses    
 
 ## Awards
 
 `2018`
 ISCB Wikipedia competition - awarded by the page update about Biostatistics   
 
+`2021`
+[Honorary mention at the Postgraduate Video Award 2021, University of São Paulo](https://www.youtube.com/watch?v=w8VFeeRx5-8)
+
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ## Journals and Pre-Prints
+`2023`
+[Sampling strategies for sugarcane using either clonal replicates or diverse genotypes can bias the conclusions of RNA-Seq studies](https://www.scielo.br/j/gmb/a/xGF7xHxTT9q5qwJXtB6LYwD/?lang=en)
 
-`2020`
+`2023`
+[Moving towards a rolling front strategy for VERACEL's advanced-generation eucalypt hybrid breeding program](https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1254)
+
+`2023`
+[Genetic parameters for early growth and disease resistance in a cloned F2 hybrid progeny of Eucalyptus urophylla × grandis](https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1255)
+
+`2021`
+[The experience of teaching introductory programming skills to bioscientists in Brazil](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009534), _PLOS COMPUTATIONAL BIOLOGY_
+
+`2021`
 [The Wild Sugarcane and Sorghum Kinomes: Insights into Expansion, Diversification and Expression Patterns](https://www.frontiersin.org/articles/10.3389/fpls.2021.668623/abstract), _Frontiers in Plant Science_  
 
 `2018`
@@ -94,6 +134,10 @@ __Book Charpter__
 Fenotipagem de alto rendimento, _Melhoramento de forrageiras na era genômica_ (in portuguese)  
 
 ## Presentations
+`2023`
+Moving towards a rolling front strategy for VERACEL's advanced-generation eucalypt hybrid breeding program.
+*Lecture at the IUFRO 2023: Working Group 2.08.03 – Improvement and Culture of Eucalyptus*, Uruguay
+
 `2021`
 How do alternative transcripts influence drought response in sugarcane   
 *Talk at the Plant Science Theme Seminar*, Univeristy of Birmingham, United Kingdom   
