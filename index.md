@@ -21,15 +21,6 @@ I love animals and I have two cats and one little tortoise.
 #### Societies Membership
 [Brazilian Society of Genetics](https://www.sbg.org.br/)  
 [Brazilian Society of Plant Breeding](http://www.sbmp.org.br/)  
-[The Society of Experimental Biology - SEB](https://www.sebiology.org/)  
-
-#### Science Communication Groups
-[GENt](https://gent-esalq.github.io/)   
-[Voice of Young Science - VoYS](https://senseaboutscience.org/what-we-are-doing/voys/)   
-
-#### Plant Breeding Groups - Former Memberships
-[GVENCK](https://gvenck.github.io/) - *Plant Breeding* - Former vice-coordinator  
-[EuGeM](https://grupoeugem.wixsite.com/eugem) - *Plant Breeding* - Co-founder and former secretary  
 
 
 
